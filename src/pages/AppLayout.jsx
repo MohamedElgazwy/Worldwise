@@ -1,6 +1,6 @@
-import Map from "../components/Map";
-import Sidebar from "../components/Sidebar";
-import User from "../components/User";
+import Map from "../Components/Map";
+import Sidebar from "../Components/Sidebar";
+import User from "../Components/User";
 
 import styles from "./AppLayout.module.css";
 
